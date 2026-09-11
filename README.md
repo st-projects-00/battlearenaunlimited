@@ -1,3 +1,3 @@
-# Battle Arena privacy policy
+# Battle Arena Unlimited
 
-Published at https://st-projects-00.github.io/battlearena-privacy/
+Privacy policy, published at https://st-projects-00.github.io/battlearenaunlimited/
